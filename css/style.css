@@ -14,7 +14,7 @@ body{
   margin: 0;
   width: 100vw;
   height: 100vh;
-  background-image: url("/assets/img/Heineken.jpg");
+  background-image: url("https://github.com/fredyhack22/MusicaFred/blob/main/assets/img/Heineken.jpg");
   display: grid;
   grid-template-rows: auto 1fr;
 }
