@@ -36,7 +36,7 @@ const songs=[
     // img: "https://github.com/Brandon328/music-player/blob/master/assets/img/elements.jpg"
   },
   {
-    id: "song8",
+    id: "song5",
     name: "La mujer perfecta",
     artist: "Kurt",
     url: "assets/musicas/playa.mp3",
