@@ -36,7 +36,7 @@ const songs=[
     // img: "https://github.com/Brandon328/music-player/blob/master/assets/img/elements.jpg"
   },
   {
-    id: "song5",
+    id: "song8",
     name: "La mujer perfecta",
     artist: "Kurt",
     url: "assets/musicas/R.I.O. - Shine On (Official Video HD).mp3",
