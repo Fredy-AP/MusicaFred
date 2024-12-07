@@ -1,6 +1,6 @@
 // Lista de canciones con sus URLs y nombres
 const songs = [
-  { title: "Canción 1", url: "assets/musicas/playa.mp3", image: "https://via.placeholder.com/300?text=Song1" },
+  { title: "Canción 1", url: "./assets/musicas/playa.mp3", image: "https://via.placeholder.com/300?text=Song1" },
   { title: "Canción 2", url: "https://raw.githubusercontent.com/usuario/repositorio/main/song2.mp3", image: "https://via.placeholder.com/300?text=Song2" },
   { title: "Canción 3", url: "https://raw.githubusercontent.com/usuario/repositorio/main/song3.mp3", image: "https://via.placeholder.com/300?text=Song3" },
   { title: "Canción 4", url: "https://raw.githubusercontent.com/usuario/repositorio/main/song4.mp3", image: "https://via.placeholder.com/300?text=Song4" },
